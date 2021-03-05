@@ -1,4 +1,4 @@
-# fraser-lab.github.io
+# palanivelu-lab.github.io
 ====================
 
 Technologies this website uses:  
