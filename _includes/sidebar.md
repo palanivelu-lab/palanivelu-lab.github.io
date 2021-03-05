@@ -3,18 +3,19 @@ title: Contact
 ---
 
 
-### Contact the Fraser Lab
+### Contact the Palanivelu Lab
 
-James Fraser, Ph.D.
-Professor
-Department of Bioengineering and Therapeutic Sciences
-California Institute of Quantitative Biosciences (QB3)
+Ravi Palanivelu, Ph.D.
+Associate Professor
+School of Plant Sciences
+BIO5
+Molecular and Cellular Biology
+Genetics GIDP
+The University of Arizona
 
-email: jfraser (#!) fraserlab.com
-tel: 415 493 842 one
-fax: 415 514 016 nine
-
-Genentech Hall Room S472E (Office), S476 (Lab)
-UCSF Mail Code 2240
-600 16th Street
-San Francisco, CA 94158
+email: rpalaniv (#!) email.arizona.edu
+tel: 520 626 222 nine
+lab: 520 621 956 seven
+Marley Building Room 441E (Office), 418-420 (Lab)
+The University of Arizona
+Tucson, AZ 85721
