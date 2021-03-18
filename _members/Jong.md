@@ -11,9 +11,9 @@ email: emmajong (at) email.arizona.edu
 scholar: 
 website: 
 UCSF: 
-twitter: username
-linkedin: username
-github: username
-orcid: XXXX-XXXX-XXXX-XXXX
+twitter: EmmaJong3
+linkedin: Emma Jong
+github: emmajong
+orcid: 
 description: ""
 ---
