@@ -18,8 +18,5 @@ description: "Cedar earned his PhD at Oregon State University, where he worked w
 
 
 Cedar is interested in creating new methods for understanding how genetic variation influences a plant's fitness in response to environmental stress.
-
-
-Test text.
 "
 ---
