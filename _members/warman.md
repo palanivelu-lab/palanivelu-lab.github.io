@@ -17,5 +17,7 @@ orcid: 0000-0002-6760-1869
 description: "Cedar earned his PhD at Oregon State University, where he worked with Dr. John Fowler to develop a high-throughput maize ear phenotyping system to track reproductive mutant fitness.
 
 
-Cedar is interested in creating new methods for understanding how genetic variation influences a plant's fitness in response to environmental stress."
+Cedar is interested in creating new methods for understanding how genetic variation influences a plant's fitness in response to environmental stress.
+
+"
 ---
