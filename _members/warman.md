@@ -4,7 +4,7 @@ startdate: 2020-08-17
 enddate: YYYY-MM-DD
 image: /static/img/members/Warman.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/Warman_pb.jpg #365 x 365 pixels, 72 dpi
-position: Postdoc
+position: Postdoctoral Fellow
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his #personal pronouns
 email: cedar (at) arizona.edu #Preferred public email address
