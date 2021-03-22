@@ -16,5 +16,6 @@ linkedin: kelseypryze
 github: kpryze
 orcid:
 description: "Kelsey graduated from Penn State University with a degree in Biology and Plant Science with a focus on genetics and biotechnology. As an undergraduate, she focused on a project with Dr. David Hughes and the UN FAO to create an open source database to identify plant diseases through artificial intelligence. She also worked with Dr. Mark Guiltinan and Dr. Siela Maximova on a project to transform cacao trees to confer disease resistance to black pod rot. After graduation from Penn State, she worked as a Scientist of Virology for a pharmaceutical contract research organization.
+
 Kelsey became a graduate student and joined the Palanivelu Lab in 2020, where she is focusing on transcriptional changes in plant reproductive tissues in response to heat stress."
 ---
