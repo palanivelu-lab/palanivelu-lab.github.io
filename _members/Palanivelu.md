@@ -1,7 +1,7 @@
 ---
 name: Ravi Palanivelu
 startdate: 2006-01-31
-enddate:
+enddate: 2020-12-31
 image: /static/img/members/LastName.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
 position: Prinicipal Investigator
