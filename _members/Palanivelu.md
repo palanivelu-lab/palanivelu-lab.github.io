@@ -10,7 +10,7 @@ pronouns: he/him/his
 email: rpalaniv@email.arizona.edu
 scholar: Ravishankar Palanivelu
 researchgate: https://www.researchgate.net/profile/Ravishankar-Palanivelu
-website: https://website.com/
+website: https://cals.arizona.edu/spls/content/ravi
 UCSF:
 twitter: rpalaniveluaz
 linkedin: Ravishankar Palanivelu
