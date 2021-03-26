@@ -9,6 +9,7 @@ position: Prinicipal Investigator
 pronouns: he/him/his
 email: rpalaniv@email.arizona.edu
 scholar: Ravishankar Palanivelu
+researchgate: https://www.researchgate.net/profile/Ravishankar-Palanivelu
 website: https://website.com/
 UCSF:
 twitter: rpalaniveluaz
