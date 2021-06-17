@@ -8,11 +8,8 @@ position: Undergraduate Research Assistant
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers
 email: skmckinley@email.arizona.edu
-scholar: XXXXXXXXXXXX #Google Scholar User ID
-website: https://website.com/
 twitter: username
 linkedin: username
 github: SaraMcKinley
-orcid: XXXX-XXXX-XXXX-XXXX
 description: ""
 ---
