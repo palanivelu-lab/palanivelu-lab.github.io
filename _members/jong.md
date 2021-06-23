@@ -11,7 +11,7 @@ scholar:
 website: 
 UCSF: 
 twitter: EmmaJong3
-linkedin: Emma Jong
+linkedin: emma-jong-b0587983/
 github: emmajong
 orcid: 
 description: ""
