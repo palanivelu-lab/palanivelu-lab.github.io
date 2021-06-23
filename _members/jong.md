@@ -11,8 +11,10 @@ scholar:
 website: 
 UCSF: 
 twitter: EmmaJong3
-linkedin: emma-jong-b0587983/
+linkedin: emma-jong-b0587983
 github: emmajong
 orcid: 
-description: ""
+description: "Emma earned her Bachelor of Science in Molecular and Cellular Biology at the University of Arizona in 2017 and received her Master's degree in Plant Science at the University of Arizona in 2021. After receiving her Bachelor's degree, Emma worked as the lab manager in [Dr. Rachel Gallery's lab] (http://rachelgallery.arizona.edu) and assisted in projects related to plant-soil microbial ecology, including microbial controls of tropical plant community diversity, recreational camping effects on cover mediated soil microbial activity in rangelands and how the activity of microbes influences the stabilization or loss of carbon from soils.  
+
+Emma joined the Palanivelu lab in 2019, where her reaserch focuses on proteins important to overcoming interspecific hybridization barriers in Brassicaceae."
 ---
