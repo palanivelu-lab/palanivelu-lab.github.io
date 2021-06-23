@@ -8,7 +8,7 @@ position: Undergraduate Research Assistant
 pronouns: she/her/hers
 email: skmckinley@email.arizona.edu
 twitter: username
-linkedin: username
+linkedin: sara-mckinley-6961311ab
 github: SaraMcKinley
 description: ""
 ---
