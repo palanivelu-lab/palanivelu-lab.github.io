@@ -9,7 +9,7 @@ position: Postdoctoral Fellow
 pronouns: he/him/his #personal pronouns
 email: cedar (at) arizona.edu #Preferred public email address
 scholar: BSCuLzIAAAAJ #Google Scholar User ID
-website: https://cedarwarman.github.io/
+website: https://cedarwarman.com/
 twitter: cedarwarman
 linkedin: cedar-warman-34325219a
 github: cedarwarman
