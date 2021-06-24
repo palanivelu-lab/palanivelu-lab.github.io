@@ -7,8 +7,8 @@ position: Undergraduate Research Assistant
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers
 email: skmckinley@email.arizona.edu
-twitter: username
+twitter: 
 linkedin: sara-mckinley-6961311ab
 github: SaraMcKinley
-description: ""
+description: " Sara is currently a senior at the University of Arizona. She is pursuing majors in both Biology and Veterinary Science. Sara joined the Palanivelu lab during the summer of 2021 and is studying the effect of heat stress on tomato pollen. "
 ---
