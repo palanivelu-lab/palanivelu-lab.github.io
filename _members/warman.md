@@ -11,7 +11,7 @@ email: cedar (at) arizona.edu #Preferred public email address
 scholar: BSCuLzIAAAAJ #Google Scholar User ID
 website: https://cedarwarman.com/
 twitter: cedarwarman
-linkedin: cedar-warman-34325219a
+linkedin: cedarwarman
 github: cedarwarman
 orcid: 0000-0002-6760-1869
 description: "Cedar earned his PhD at Oregon State University, where he worked with Dr. John Fowler to develop a [high-throughput maize ear phenotyping system](https://doi.org/10.1111/tpj.15166) to track reproductive mutant fitness.
