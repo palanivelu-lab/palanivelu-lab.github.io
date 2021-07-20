@@ -20,29 +20,29 @@ group: publications
         			<strong>Access the paper</strong>
                                 <!--DOI-->
         			{% if publication.doi %}
-        			<li>DOI: <a href="https://doi.org/{{publication.doi}}" alt = "DOI link: {{publication.doi}}"> {{publication.doi}}</a></li>
+        			<li>DOI: <a href="https://doi.org/{{publication.doi}}" alt = "DOI link: {{publication.doi}}" target= "_blank" rel= "noopener noreferrer"> {{publication.doi}}</a></li>
         			{% endif %}
                         
         			<!--PMID-->
         			{% if publication.pmid %}
-        			<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}"> {{publication.pmid}}</a></li>
+        			<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}" target= "_blank" rel= "noopener noreferrer"> {{publication.pmid}}</a></li>
         			{% endif %}
 
         			<!--Biorxiv - optional -->
         			{% if publication.biorxiv %}
-        			<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv preprint link: {{publication.biorxiv}}"> {{publication.biorxiv | split: "." | last }}</a></li>
+        			<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv preprint link: {{publication.biorxiv}}" target= "_blank" rel= "noopener noreferrer"> {{publication.biorxiv | split: "." | last }}</a></li>
         			{% endif %}
 
         			<!-- PDF -->
                                 {% if publication.pdf %}
-        			<li><a href="{{publication.pdf}}" alt = "PDF"> Full Text</a></li>
+        			<li><a href="{{publication.pdf}}" alt = "PDF" target= "_blank" rel= "noopener noreferrer"> Full Text</a></li>
                                 {% endif %}
 
         			<!--additional links - optional-->
                                 {% if publication.links %}
                                 <strong>Additional Link{% if publication.links.size > 1 %}s{% endif %}</strong>:
                                         {% for link in publication.links %}
-                                        <li><a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a></li>
+                                        <li><a href="{{link.url}}" alt="{{link.name}}" target= "_blank" rel= "noopener noreferrer">{{link.name}}</a></li>
                                         {% endfor %}
                                 {% endif %}
         	</ul>
